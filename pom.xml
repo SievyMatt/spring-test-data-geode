@@ -91,7 +91,7 @@
 		<lombok.version>1.18.10</lombok.version>
 		<mockito.version>3.2.4</mockito.version>
 		<multithreadedtc.version>1.01</multithreadedtc.version>
-<!--		<pivotal-gemfire.version>9.8.6</pivotal-gemfire.version>-->
+<!--		<pivotal-gemfire.version>9.9.1</pivotal-gemfire.version>-->
 		<spring.version>5.2.3.RELEASE</spring.version>
 		<spring-boot.version>2.3.0.M2</spring-boot.version>
 		<spring-data-releasetrain.version>Neumann-BUILD-SNAPSHOT</spring-data-releasetrain.version>
